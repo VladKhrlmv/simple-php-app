@@ -1,0 +1,27 @@
+.header {
+  background-color: yellow;
+  font-weight: bold;
+}
+
+.even {
+  background-color: pink;
+}
+
+.odd {
+  background-color: aqua;
+}
+
+td {
+  border: 1px solid red;
+  width: 40px;
+  text-align: center;
+}
+
+.errors {
+  color: red;
+}
+
+input, select {
+  margin-block: 5px;
+}
+
